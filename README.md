@@ -5,4 +5,4 @@ Simple snake game written in python
 
 # Installation & Usage
 Download the zip file and then extract it.<br>
-After extracting the zip file copy the extracted file path and then run <b>main.py</b> in command line. (e.g. <b>python3 main.py</b>)
+After extracting the zip file go to the extracted file path and then run <b>main.py</b> in command line. (e.g. <b>python3 main.py</b>)
